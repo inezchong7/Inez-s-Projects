@@ -1,4 +1,4 @@
-<h1> Hi, I'm, Inez! </h1>
+<h1> Hi, I'm Inez! </h1>
 
 <h2> 👩‍💻Cybersecurity projects </h2>
 - Keylogger (Python)
