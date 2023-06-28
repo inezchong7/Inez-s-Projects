@@ -1,7 +1,10 @@
 <h1> Hi, I'm Inez! </h1>
 
 <h2> 👩‍💻Cybersecurity projects </h2>
-- Keylogger (Python)
+<ul>
+  <li><a href="https://github.com/inezchong7/Keylogger/blob/main/README.md">Keylogger</a> 
+</li>
+</ul>
 
 <h2> 📩Connect with me </h2>
 https://www.linkedin.com/in/inez-chong-18030b1b6/ 
