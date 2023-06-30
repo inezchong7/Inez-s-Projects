@@ -10,7 +10,7 @@
 <ul>
   <li><a href="">Linux Fundamentals </a> (TryHackMe)
 </li>
-    <li><a href="">Nmap </a> (TryHackMe)
+    <li><a href="https://github.com/inezchong7/Nmap">Nmap </a> (TryHackMe)
 </li>
 </ul>
 
