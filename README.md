@@ -2,7 +2,15 @@
 
 <h2> 👩‍💻Cybersecurity projects </h2>
 <ul>
-  <li><a href="https://github.com/inezchong7/Keylogger/blob/main/README.md">Keylogger</a> 
+  <li><a href="https://github.com/inezchong7/Keylogger/blob/main/README.md">Keylogger</a> (Python)
+</li>
+</ul>
+
+<h2> 🖱️Hands-on experience </h2>
+<ul>
+  <li><a href="">Linux Fundamentals </a> (TryHackMe)
+</li>
+    <li><a href="">Nmap </a> (TryHackMe)
 </li>
 </ul>
 
