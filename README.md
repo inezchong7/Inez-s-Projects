@@ -14,6 +14,12 @@
 </li>
 </ul>
 
+<h2> 📝Learning notes </h2>
+<ul>
+  <li><a href="">Networking </a> (TryHackMe)
+</li>
+</ul>
+
 <h2> 📩Connect with me </h2>
 https://www.linkedin.com/in/inez-chong-18030b1b6/ 
 <!---
