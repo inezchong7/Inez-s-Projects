@@ -8,7 +8,7 @@
 
 <h2> 🖱️Hands-on experience </h2>
 <ul>
-  <li><a href="">Linux Fundamentals </a> (TryHackMe)
+  <li><a href="https://github.com/inezchong7/Linux-Fundamentals">Linux Fundamentals </a> (TryHackMe)
 </li>
     <li><a href="https://github.com/inezchong7/Nmap">Nmap </a> (TryHackMe)
 </li>
@@ -16,7 +16,7 @@
 
 <h2> 📝Learning notes </h2>
 <ul>
-  <li><a href="https://github.com/inezchong7/Networking-basics">Networking </a> (TryHackMe)
+  <li><a href="https://github.com/inezchong7/Networking-basics">Networking basics</a> (TryHackMe)
 </li>
 </ul>
 
