@@ -20,6 +20,7 @@
 <ul>
   <li><a href="https://github.com/inezchong7/Networking-basics">Networking basics</a> (TryHackMe)
 </li>
+  <li><a href="https://github.com/inezchong7/Privilege-escalation">Privilege Escalation</a> (TryHackMe)</li>
 </ul>
 
 <h2> 📩Connect with me </h2>
