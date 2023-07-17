@@ -7,6 +7,11 @@
   <li><a href="https://github.com/inezchong7/Botium-Toys-security-audit-/blob/main/README.md">Botium Toys Security Audit</a>(Google Coursera)</li>
 </ul>
 
+<h2>⌨️Programming Projects</h2>
+<ul>
+  <li><a href="https://github.com/inezchong7/Java-Projects">Java Projects</a></li>
+</ul>
+
 <h2> 🖱️Hands-on experience </h2>
 <ul>
   <li><a href="https://github.com/inezchong7/Linux-Fundamentals">Linux Fundamentals </a> (TryHackMe)
