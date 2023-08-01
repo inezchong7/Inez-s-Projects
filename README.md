@@ -9,7 +9,24 @@
 
 <h2>⌨️Programming Projects</h2>
 <ul>
-  <li><a href="https://github.com/inezchong7/Java-Projects">Java Projects</a></li>
+  <li>Java: </a></li>
+  <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+  <li>HTML/ CSS: </li>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
 </ul>
 
 <h2> 🖱️Hands-on experience </h2>
