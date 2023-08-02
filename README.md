@@ -32,7 +32,7 @@
     <li><a href="https://github.com/UOA-PGCIT-FULLTIME/industry-lab-control-flow-inezchong7">Control Flow</a></li>
     <li><a href="https://github.com/UOA-PGCIT-FULLTIME/industry-lab-arrays-inezchong7 ">Arrays</a></li>
     <li><a href="https://github.com/UOA-PGCIT-FULLTIME/industry-lab-java-classes-inezchong7">Classes</a></li>
-    <li><a href="https://github.com/UOA-PGCIT-FULLTIME/industry-lab-abstraction-inheritance-inezchong7">Abstraction Inheritance</a></li>
+    <li><a href="https://github.com/UOA-PGCIT-FULLTIME/industry-lab-abstraction-inheritance-inezchong7">Abstraction & Inheritance</a></li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>
   </ul>
