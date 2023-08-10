@@ -24,7 +24,7 @@
   <li><a href="https://github.com/inezchong7/Privilege-escalation">Privilege Escalation</a> (TryHackMe)</li>
 </ul>
 
-
+<!--
 <h2>⌨️PGCert Programming Projects</h2>
 <ul>
   <li>Java: </a></li>
@@ -48,6 +48,7 @@
       <li><a href=""></a></li>
   </ul>
 </ul>
+-->
 
 
 <h2> 📩Connect with me </h2>
