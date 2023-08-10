@@ -15,7 +15,8 @@
 </li>
 <li><a href="https://github.com/inezchong7/Networking-tools">Networking tools </a> (TryHackMe)
 </li>
-</ul>
+  <li>Java, JavaScript, HTML/CSS, JSON, Python, R (University of Auckland)</li>
+</ul> 
 
 <h2> 📝Learning notes </h2>
 <ul>
