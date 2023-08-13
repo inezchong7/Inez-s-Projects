@@ -20,7 +20,7 @@
 
 <h2> 📝Learning notes </h2>
 <ul>
-  <li><a href="https://github.com/inezchong7/Networking-basics">Networking basics</a> (TryHackMe)
+  <li><a href="https://github.com/inezchong7/Networking-basics">Networking basics</a> (TryHackMe, Google Coursera)
 </li>
   <li><a href="https://github.com/inezchong7/Privilege-escalation">Privilege Escalation</a> (TryHackMe)</li>
 </ul>
