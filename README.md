@@ -2,7 +2,8 @@
 
 <h2> 💻Programming projects</h2>
 <ul>
-  <li><a href="">Blogging Platform</a> (Git Collaboration, SQL, HTML/CSS, JavScript, JSON, Ajax, Node.js, APIs, Express, Java Swing)</li>
+  <li><a href="https://github.com/inezchong7/BloggingPlatform">Blogging Platform</a> (Git Collaboration, SQL, HTML/CSS, JavaScript, JSON, Ajax, Node.js, APIs, Express, Java Swing)</li>
+  <li><a href="">Pokemon website</a> (HTML/CSS, JavaScript, JSON, Ajax, Node.js, APIs, Express)</li>
 </ul>
 
 <h2> 👩‍💻Cybersecurity projects </h2>
@@ -22,6 +23,22 @@
 </li>
   <li>Java, JavaScript, HTML/CSS, JSON, Python, R (University of Auckland)</li>
 </ul> 
+
+<h2> 🖋️Certifications/ Badges</h2>
+<ul>
+  <li><a href="https://www.credly.com/badges/d8a89b02-2d9d-4c85-bb9d-4f5680186c1e/linked_in_profile">AWS Cloud Quest: Cloud Practitioner</a></li>
+  <li>DATACOM Cybersecurity Job Simulation</li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/88Y38C9J9BTB">Play It Safe: Manage Security Risks</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/6DK38J6N7GH3">Foundations of Cybersecurity</a></li>
+  <li>TryHackMe Badges
+  <ul>
+    <li>Intro to Web Hacking: Completing the 'Introduction to Web Hacking' module</li>
+    <li>Networking Nerd: Completing the 'Network Fundamentals' module</li>
+    <li>Webbed: Understands how the world wide web works</li>
+    <li>cat linux.txt: Being competent in Linux</li>
+  </ul>
+  </li>
+</ul>
 
 <h2> 📝Learning notes </h2>
 <ul>
