@@ -1,5 +1,10 @@
 <h1> Hi, I'm Inez! </h1>
 
+<h2> 💻Programming projects</h2>
+<ul>
+  <li><a href="">Blogging Platform</a> (Git Collaboration, SQL, HTML/CSS, JavScript, JSON, Ajax, Node.js, APIs, Express, Java Swing)</li>
+</ul>
+
 <h2> 👩‍💻Cybersecurity projects </h2>
 <ul>
   <li><a href="https://github.com/inezchong7/Keylogger/blob/main/README.md">Keylogger</a> (Python)
