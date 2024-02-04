@@ -13,7 +13,7 @@
   <li><a href="https://github.com/inezchong7/Keylogger/tree/main">Keylogger</a> (Python)
 </li>
   <li><a href="https://github.com/inezchong7/Botium-Toys-security-audit-/tree/main">Botium Toys Security Audit</a>(Google Coursera)</li>
-  <li>DATACOM Cybersecurity Risk Assessment</li>
+  <li>DATACOM Cybersecurity Risk Assessment (DATACOM Job Simulation)</li>
 </ul>
 
 <h2> 🖱️Hands-on experience </h2>
