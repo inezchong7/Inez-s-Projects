@@ -2,7 +2,7 @@
 
 <h2> 💻Programming projects</h2>
 <ul>
-  <li><a href="">Wedding Invite</a></li>
+  <li><a href="https://github.com/inezchong7/Wedding-Invite">Wedding Invite</a></li>
   <li><a href="https://github.com/inezchong7/3d_portfolio/tree/main">3D Portfolio</a> (React)</li>
   <li><a href="https://github.com/inezchong7/BloggingPlatform">Blogging Platform</a> (Git Collaboration, SQL, HTML/CSS, JavaScript, JSON, Ajax, Node.js, APIs, Express, Java Swing)</li>
   <li><a href="">Pokemon website</a> (HTML/CSS, JavaScript, JSON, Ajax, Node.js, APIs, Express)</li>
