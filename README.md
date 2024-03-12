@@ -2,7 +2,8 @@
 
 <h2> 💻Programming projects</h2>
 <ul>
-  <li><a href="https://github.com/UoaWDCC/passport">WDCC Passport Project</a> - Tech Lead role</li>
+  <li><a href="https://github.com/UOA-CS732-SE750-Students-2024/project-group-quaint-quokkas">LectureMon</a> - UoA (MERN)</li>
+  <li><a href="https://github.com/UoaWDCC/passport">WDCC Passport Project</a> - Tech Lead role (MERN)</li>
   <li><a href="https://github.com/inezchong7/Wedding-Invite">Wedding Invite</a></li>
   <li><a href="https://github.com/inezchong7/3d_portfolio">3D Portfolio</a> (React)</li>
   <li><a href="https://github.com/inezchong7/BloggingPlatform">Blogging Platform</a> - UoA (Git Collaboration, SQL, HTML/CSS, JavaScript, JSON, Ajax, Node.js, APIs, Express, Java Swing)</li>
