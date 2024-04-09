@@ -29,7 +29,7 @@
 </li>
 <li><a href="https://github.com/inezchong7/Networking-tools">Networking tools </a> (TryHackMe)
 </li>
-  <li>Java, JavaScript, HTML/CSS, JSON, Python, R, React, Node.js, Express, MongoDb, SQL (University of Auckland)</li>
+  <li>Java, JavaScript, HTML/CSS, JSON, Python, R, React, Node.js, Express, MongoDb, SQL, Angular, Typescript (University of Auckland)</li>
 </ul> 
 
 <h2> 🖋️Certifications/ Badges</h2>
