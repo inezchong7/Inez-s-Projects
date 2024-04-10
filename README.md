@@ -2,7 +2,7 @@
 
 <h2> 💻Programming projects</h2>
 <ul>
-  <li>Rotten Potatoes Tech Demo  - UoA (Angular, Typescript)</li>
+  <li><a href="https://github.com/inezchong7/React-native-job-search">Job Search App </a> - UoA (React Native, Android Studios)</li>
   <li>LectureMon - UoA (MERN)</li>
   <li><a href="https://github.com/UoaWDCC/passport">WDCC Passport Project</a> - Tech Lead role (MERN)</li>
   <li><a href="https://github.com/inezchong7/Wedding-Invite">Wedding Invite</a> - personal</li>
