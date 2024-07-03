@@ -7,7 +7,7 @@
   <li><a href="https://github.com/UoaWDCC/passport">WDCC Passport Project</a> - Tech Lead role (MERN)</li>
   <li><a href="https://github.com/inezchong7/Wedding-Invite">Wedding Invite</a> - personal</li>
   <li><a href="https://github.com/inezchong7/3d_portfolio">3D Portfolio</a> (React)</li>
-  <li><a href="https://github.com/inezchong7/BloggingPlatform">Blogging Platform</a> - UoA (Git Collaboration, SQL, HTML/CSS, JavaScript, JSON, Ajax, Node.js, APIs, Express, Java Swing)</li>
+  <li>Blogging Platform - UoA (Git Collaboration, SQL, HTML/CSS, JavaScript, JSON, Ajax, Node.js, APIs, Express, Java Swing)</li>
   <li>Bulls & Cows with AI - UoA(Java)</li>
   <li>Pokemon website - UoA (HTML/CSS, JavaScript, JSON, Ajax, Node.js, APIs, Express)</li>
   <li><a href="https://github.com/inezchong7/Valentine-s/tree/main">Valentine's Day invite</a> (Firebase, HTML, CSS)</li>
